@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hajar 👋
+
+💻 Aspiring Software Developer
+
+## 🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## 🎯 Goals
+- Build real-world projects
+- Improve my programming skills
+- Learn something new every day
+
+## 🛠️ Tools
+- Visual Studio Code
+- Git
+- GitHub
+
+Thanks for visiting my profile! 🚀
 
 <!--
 **hajar-benhadj/hajar-benhadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
