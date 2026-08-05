@@ -45,20 +45,11 @@
 
 ---
 
-### 💬 Chat Vibe // Notification
+### 💬 Live Vibe Check // Chat
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💬_Hi_there_👋-FFB7C5?style=for-the-badge&logoColor=white" height="35" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/💻_Software_Developer_&_Creative_Coder-22252a?style=for-the-badge&logoColor=ffb7c5" height="35" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🇩🇪_Hauptsache_der_Code_laeuft_und_sieht_cute_aus_✨-22252a?style=for-the-badge&logoColor=ffb7c5" height="35" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Voll_im_Vibe_•_Null_Bugs_•_Nur_Erfolge_🔥-FFB7C5?style=for-the-badge&logoColor=white" height="35" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=600&lines=👋+Hi,+ich+bin+Hajar+!;💻+Software+Developer+%26+Creative+Mind+✨;💖+Hauptsache+der+Code+läufts+und+ist+cute!;🚀+Voll+im+Vibe+•+Keine+Bugs+nur+Erfolge" alt="Chat Animation" />
+</div>
 
 ---
 
