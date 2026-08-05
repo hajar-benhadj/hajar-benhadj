@@ -43,3 +43,7 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,25,6,11,20&height=120&section=footer&text=%F0%9F%92%96%20Keep%20coding,%20keep%20creating%20magic!%20%F0%9F%92%96&fontSize=18&fontColor=ffb7c5&animation=fadeIn&fontAlignY=55" width="100%" />
+</div>
