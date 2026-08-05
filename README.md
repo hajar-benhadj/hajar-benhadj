@@ -45,11 +45,17 @@
 
 ---
 
-### 💡 My Code Philosophy & Vibe
+### 🚀 Terminal Vibe
 
 <div align="center">
-  <p>✨ <b>Eat • Sleep • Code • Repeat</b> ✨</p>
-  <p><i>"Make it work, make it right, make it pretty."</i> 💻💕</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=580&lines=%3E+hajar.mood()+-->+%22Main+Character+Energy+✨%22;%3E+hajar.code()+-->+%22Turning+caffeine+into+clean+code+☕%22;%3E+bugs.status()+-->+%22Permanently+deleted+🔥%22" alt="Terminal Vibe" />
+</div>
+
+---
+
+<!-- Visitor Counter Badge -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hajar-benhadj&color=ffb7c5&style=flat-square" alt="Profile Visitor Count" />
 </div>
 
 ---
