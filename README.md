@@ -48,8 +48,9 @@
 ### 📱 Live Notification // Vibe Check
 
 <div align="center">
-  <p>🔔 <b>Neue Nachricht erhalten...</b></p>
-  <p>✨ <i>"Hauptsache der Code läuft und sieht cute aus"</i> 💖</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=580&lines=%F0%9F%94%94+Neue+Nachricht+von+Hajar...;✨+Code+laeuft+und+sieht+cute+aus+💖;🚀+Voll+im+Vibe+•+Null+Bugs+•+Nur+Erfolge" alt="Gen Z German Notification Animation" />
+  </a>
 </div>
 
 ---
