@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=180&section=header&text=Hajar%20Benhadj&fontSize=50&fontColor=ffb7c5&animation=fadeIn&fontAlignY=38&desc=Supply%20Chain%20Planner%20&%20Data%20Analyst&descSize=16&descColor=f3f4f6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=180&section=header&text=Hajar%20Benhadj&fontSize=50&fontColor=ffb7c5&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20&%20Data%20Analyst&descSize=16&descColor=f3f4f6" width="100%" />
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+universe!+%E2%9C%A8;Data+Analysis+%26+Supply+Chain+%F0%9F%93%88;Turning+data+into+creative+solutions+%F0%9F%92%96" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Software+Developer+%F0%9F%92%BB;Build+real-world+projects+%E2%9C%A8;Improve+my+programming+skills+%F0%9F%93%88;Learn+something+new+every+day+%F0%9F%8C%9F" alt="Typing SVG" />
     </a>
   </p>
 
@@ -17,9 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=hajar-benhadj&style=flat-square&color=ff69b4&label=Profile+Visits" alt="Visitor Count" />
 </div>
 
-- 🌱 I’m passionate about **Supply Chain Planning, Data Analysis, and Web Development**.
-- 💫 Bridging the gap between analytical logic and creative aesthetics.
-- 🛍️ Building cool projects and designing neat digital experiences.
+- 💻 Passionate **Software Developer** turning complex ideas into clean, efficient code.
+- 📊 Data enthusiast focused on transforming raw numbers into meaningful insights.
+- 🚀 Believer in continuous learning, creativity, and building impactful digital experiences.
 
 ---
 
@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,25,6,11,20&height=100&section=footer&text=%F0%9F%92%96%20Let's%20build%20something%20amazing%20together!%20%F0%9F%92%96&fontSize=18&fontColor=ffb7c5&animation=fadeIn&fontAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,25,6,11,20&height=100&section=footer&text=%F0%9F%92%96%20Keep%20coding,%20keep%20creating!%20%F0%9F%92%96&fontSize=18&fontColor=ffb7c5&animation=fadeIn&fontAlignY=60" width="100%" />
 </div>
