@@ -48,7 +48,8 @@
 ### 💡 My Code Philosophy & Vibe
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Eat+Sleep+Code+Repeat+%F0%9F%92%BB;Make+it+work,+make+it+right,+make+it+pretty+%E2%9C%A8;Debugging+is+like+being+a+detective+in+a+crime+movie+🔍" alt="Philosophy" />
+  <p>✨ <b>Eat • Sleep • Code • Repeat</b> ✨</p>
+  <p><i>"Make it work, make it right, make it pretty."</i> 💻💕</p>
 </div>
 
 ---
