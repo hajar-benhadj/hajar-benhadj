@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner with Waving Animation and Pink Glow -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=200&section=header&text=Hajar%20Benhadj&fontSize=55&fontColor=ffb7c5&animation=fadeIn&fontAlignY=35&desc=✨%20Software%20Developer%20&%20Creative%20Coder%20✨&descSize=18&descColor=ffd1dc" width="100%" />
 
-  <!-- Super Creative Typing Animation -->
+  <!-- Typing Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+real-world+projects+with+passion+%F0%9F%92%BB;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88;Designing+the+future,+one+line+at+a+time+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -19,6 +19,11 @@
 - 💻 **Software Developer** focused on building efficient, real-world applications and clean code.
 - 🎨 Passionate about web aesthetics, interactive design, and blending logic with creativity.
 - 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
+
+<!-- شخصية ديزني لطيفة (Stitch) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px" />
+</div>
 
 ---
 
@@ -37,6 +42,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
+
+<!-- GIF ساخر على البرمجة -->
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250px" />
+</div>
 
 ---
 
