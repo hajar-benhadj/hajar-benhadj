@@ -6,7 +6,7 @@
   <!-- Typing Animation for Software Developer and Gen Z vibes -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+real-world+projects+with+passion+%F0%9F%8C%9F;Turning+code+into+digital+art+%F0%9F%92%96;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+real-world+projects+with+passion+%F0%9F%8C%9F;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
     </a>
   </p>
 
@@ -48,7 +48,8 @@
 ### 📱 Live Notification // Vibe Check
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=580&lines=%F0%9F%94%94+Neue+Nachricht+erhalten...+💬;%E2%9C%A8+Hauptsache+der+Code+läuft+und+sieht+cute+aus+%F0%9F%92%96;🚀+Voll+im+Vibe+%E2%80%A2+Null+Bugs+%E2%80%A2+Nur+Erfolge+🔥" alt="Gen Z German Notification" />
+  <p>🔔 <b>Neue Nachricht erhalten...</b></p>
+  <p>✨ <i>"Hauptsache der Code läuft und sieht cute aus"</i> 💖</p>
 </div>
 
 ---
