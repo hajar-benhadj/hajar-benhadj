@@ -48,12 +48,15 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=hajar_benhadj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hajar's Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hajar_benhadj&theme=tokyonight&hide_border=true" alt="Streak Stats" /></td>
+    </tr>
+  </table>
+  
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajar_benhadj&theme=tokyonight" alt="Profile Details Card" />
-  </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajar_benhadj&theme=tokyonight" alt="GitHub Stats Card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajar_benhadj&theme=tokyonight&utcOffset=1" alt="Productive Time Card" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar_benhadj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
