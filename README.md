@@ -20,7 +20,6 @@
 - 🎨 Passionate about web aesthetics, interactive design, and blending logic with creativity.
 - 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
 
-<!-- شخصية ديزني لطيفة (Stitch) -->
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px" />
 </div>
@@ -44,15 +43,3 @@
 </p>
 
 ---
-
-### 💬 Live Vibe Check // Chat
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=600&lines=👋+Hi,+ich+bin+Hajar+!;💻+Software+Developer+%26+Creative+Mind+✨;💖+Hauptsache+der+Code+läufts+und+ist+cute!;🚀+Voll+im+Vibe+•+Keine+Bugs+nur+Erfolge" alt="Chat Animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,25,6,11,20&height=120&section=footer&text=%F0%9F%92%96%20Keep%20coding,%20keep%20creating%20magic!%20%F0%9F%92%96&fontSize=18&fontColor=ffb7c5&animation=fadeIn&fontAlignY=55" width="100%" />
-</div>
