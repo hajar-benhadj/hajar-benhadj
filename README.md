@@ -13,9 +13,6 @@
 ---
 
 ### ✨ About Me
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hajar-benhadj&style=flat-square&color=ff69b4&label=Profile+Visits" alt="Visitor Count" />
-</div>
 
 - 💻 Passionate **Software Developer** turning complex ideas into clean, efficient code.
 - 📊 Data enthusiast focused on transforming raw numbers into meaningful insights.
@@ -46,13 +43,13 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hajar's Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-benhadj&theme=tokyonight&hide_border=true" alt="Streak Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=hajar_benhadj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hajar's Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hajar_benhadj&theme=tokyonight&hide_border=true" alt="Streak Stats" /></td>
     </tr>
   </table>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar_benhadj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
