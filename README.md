@@ -45,17 +45,10 @@
 
 ---
 
-### 🚀 Terminal Vibe
+### 📱 Live Notification // Vibe Check
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=580&lines=%3E+hajar.mood()+-->+%22Main+Character+Energy+✨%22;%3E+hajar.code()+-->+%22Turning+caffeine+into+clean+code+☕%22;%3E+bugs.status()+-->+%22Permanently+deleted+🔥%22" alt="Terminal Vibe" />
-</div>
-
----
-
-<!-- Visitor Counter Badge -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hajar-benhadj&color=ffb7c5&style=flat-square" alt="Profile Visitor Count" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=580&lines=%F0%9F%94%94+Neue+Nachricht+erhalten...+💬;%E2%9C%A8+Hauptsache+der+Code+läuft+und+sieht+cute+aus+%F0%9F%92%96;🚀+Voll+im+Vibe+%E2%80%A2+Null+Bugs+%E2%80%A2+Nur+Erfolge+🔥" alt="Gen Z German Notification" />
 </div>
 
 ---
