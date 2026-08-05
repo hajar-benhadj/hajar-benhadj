@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=200&section=header&text=Hajar%20Benhadj&fontSize=55&fontColor=ffb7c5&animation=fadeIn&fontAlignY=35&desc=✨%20Software%20Developer%20&%20Creative%20Coder%20✨&descSize=18&descColor=ffd1dc" width="100%" />
+  <!-- Header Banner with Animated Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=200&section=header&text=Hajar%20Benhadj&fontSize=55&fontColor=ffb7c5&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <!-- Typing Animation -->
+  <!-- Typing Animation for Software Developer and Gen Z vibes -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+real-world+projects+with+passion+%F0%9F%92%BB;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88;Designing+the+future,+one+line+at+a+time+%F0%9F%8C%9F" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+real-world+projects+with+passion+%F0%9F%8C%9F;Turning+code+into+digital+art+%F0%9F%92%96;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
     </a>
   </p>
 
@@ -43,25 +43,17 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-<!-- GIF ساخر على البرمجة -->
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250px" />
-</div>
-
 ---
 
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=hajar_benhadj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hajar's Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hajar_benhadj&theme=tokyonight&hide_border=true" alt="Streak Stats" /></td>
-    </tr>
-  </table>
-  
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar_benhadj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajar_benhadj&theme=tokyonight" alt="Profile Details Card" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajar_benhadj&theme=tokyonight" alt="GitHub Stats Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajar_benhadj&theme=tokyonight&utcOffset=1" alt="Productive Time Card" />
   </p>
 </div>
 
