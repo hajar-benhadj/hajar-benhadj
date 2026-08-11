@@ -6,7 +6,7 @@
   <!-- Typing Animation for Software Developer and Gen Z vibes -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+real-world+projects+with+passion+%F0%9F%8C%9F;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+AI+%26+Computer+Vision+Projects+%F0%9F%94%8D;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
     </a>
   </p>
 
@@ -17,7 +17,7 @@
 ### ✨ About Me
 
 - 💻 **Software Developer** focused on building efficient, real-world applications and clean code.
-- 🎨 Passionate about web aesthetics, interactive design, and blending logic with creativity.
+- 👁️ Passionate about **Computer Vision**, **AI integration**, and developing smart IoT automation solutions (like real-time fall detection systems).
 - 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
 
 <div align="center">
@@ -29,11 +29,16 @@
 ### 🌸 Technologies & Tools
 
 <p align="center">
-  <!-- Languages -->
+  <!-- Languages & AI/Vision Tech -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-Pose%20Estimation-orange?style=for-the-badge&logo=mediapipe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <br>
+  <!-- Web & Basics -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
