@@ -17,7 +17,7 @@
 ### ✨ About Me
 
 - 💻 **Software Developer** focused on building efficient, real-world applications and clean code.
-- 👁️ Passionate about **Computer Vision**, **AI integration**, and developing smart IoT automation solutions (like real-time fall detection systems).
+- 👁️ Passionate about **Computer Vision**, **AI integration**, and developing smart IoT automation solutions.
 - 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
 
 <div align="center">
