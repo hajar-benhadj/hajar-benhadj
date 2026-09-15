@@ -45,7 +45,6 @@
 - 🧪 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
 - 🚨 **[Fall Detection System](https://github.com/hajar-benhadj/Fall_Detection_System)** — real-time pose-estimation fall detection with instant Telegram photo alerts.
 - 💬 **[Anonymous Messages](https://github.com/hajar-benhadj/anonymous-messages)** — anonymous feedback web app (try the [live demo](https://hajar-benhadj.github.io/anonymous-messages/)).
-- 📊 **[SmartLogix Dashboard](https://github.com/hajar-benhadj/Smartlogix-Inventory-Dashboard)** — inventory & supply-chain dashboard ([live demo](https://hajar-benhadj.github.io/Smartlogix-Inventory-Dashboard/)).
 
 ---
 
