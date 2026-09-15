@@ -17,6 +17,7 @@
 ### ✨ About Me
 
 - 💻 **Software Developer** focused on building efficient, real-world applications and clean code.
+- 🤖 Building **automation products** with n8n — most recently, the Business Autopilot Kit (see Featured Projects).
 - 👁️ Passionate about **Computer Vision**, **AI integration**, and developing smart IoT automation solutions.
 - 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
 
@@ -29,6 +30,9 @@
 ### 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/hajar-benhadj/business-autopilot-kit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical" />
+  </a>
   <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical" />
   </a>
@@ -37,7 +41,8 @@
   </a>
 </p>
 
-- 🤖 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
+- 🤖 **[Business Autopilot Kit](https://github.com/hajar-benhadj/business-autopilot-kit)** — my first digital product: 6 n8n automations that send invoices, chase late payments, and brief your inbox with AI. Free edition here, full kit on [Gumroad](https://hajarbenhadj.gumroad.com/l/business-autopilot-kit).
+- 🧪 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
 - 🚨 **[Fall Detection System](https://github.com/hajar-benhadj/Fall_Detection_System)** — real-time pose-estimation fall detection with instant Telegram photo alerts.
 - 💬 **[Anonymous Messages](https://github.com/hajar-benhadj/anonymous-messages)** — anonymous feedback web app (try the [live demo](https://hajar-benhadj.github.io/anonymous-messages/)).
 - 📊 **[SmartLogix Dashboard](https://github.com/hajar-benhadj/Smartlogix-Inventory-Dashboard)** — inventory & supply-chain dashboard ([live demo](https://hajar-benhadj.github.io/Smartlogix-Inventory-Dashboard/)).
@@ -52,6 +57,7 @@
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-Pose%20Estimation-orange?style=for-the-badge&logo=mediapipe&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <br>
   <!-- Web & Basics -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
