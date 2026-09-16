@@ -1,29 +1,23 @@
 <div align="center">
 
-  <!-- Header Banner with Animated Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,22,25&height=200&section=header&text=Hajar%20Benhadj&fontSize=55&fontColor=ffb7c5&animation=fadeIn&fontAlignY=35" width="100%" />
+# Hajar Benhadj
 
-  <!-- Typing Animation for Software Developer and Gen Z vibes -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Software+Developer+%26+Creative+Coder+%F0%9F%92%BB;Building+AI+%26+Computer+Vision+Projects+%F0%9F%94%8D;Turning+code+into+digital+art+%E2%9C%A8;Improve+my+programming+skills+everyday+%F0%9F%93%88" alt="Typing SVG" />
-    </a>
-  </p>
+**Software Developer — Automation · AI · Computer Vision**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=20&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=I+turn+boring+admin+work+into+automations+%F0%9F%A4%96;Python+%C2%B7+JavaScript+%C2%B7+OpenCV+%C2%B7+n8n;Building+products+people+actually+use+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### ✨ About Me
+### 👋 About Me
 
-- 💻 **Software Developer** focused on building efficient, real-world applications and clean code.
-- 🤖 Building **automation products** with n8n — most recently, the Business Autopilot Kit (see Featured Projects).
-- 👁️ Passionate about **Computer Vision**, **AI integration**, and developing smart IoT automation solutions.
-- 🚀 Believer in continuous learning, exploring new technologies, and making cool things every single day.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px" />
-</div>
+- 💻 Software developer focused on **real-world applications** — automation products, AI-powered tools, and computer-vision systems.
+- 🏗️ **Builder mindset**: I ship complete products, not just scripts — from a production-ready n8n automation pack to an offline-capable learning PWA.
+- 📈 Currently going deeper into **full-stack development and cloud technologies**.
+- 🌍 Languages: Arabic · French · English · German *(I built [DeutschFlow](https://github.com/hajar-benhadj/deutschflow) to practice it 🇩🇪)*
 
 ---
 
@@ -31,16 +25,16 @@
 
 <p align="center">
   <a href="https://github.com/hajar-benhadj/business-autopilot-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical" />
-  </a>
-  <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical" />
-  </a>
-  <a href="https://github.com/hajar-benhadj/Fall_Detection_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/hajar-benhadj/deutschflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=deutschflow&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=deutschflow&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/hajar-benhadj/Fall_Detection_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -51,30 +45,50 @@
 
 ---
 
-### 🌸 Technologies & Tools
+### 📊 GitHub in Numbers
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-benhadj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-  <!-- Languages & AI/Vision Tech -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-Pose%20Estimation-orange?style=for-the-badge&logo=mediapipe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <br>
-  <!-- Web & Basics -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br>
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-Pose%20Estimation-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/hajar-benhadj">
+    <img src="https://img.shields.io/badge/GitHub-@hajar--benhadj-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hajarrbenhadj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hajarrbenhadj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,25,6,11,20&height=120&section=footer&text=%F0%9F%92%96%20Keep%20coding,%20keep%20creating%20magic!%20%F0%9F%92%96&fontSize=18&fontColor=ffb7c5&animation=fadeIn&fontAlignY=55" width="100%" />
+  <i>Keep building. 🚀</i>
 </div>
