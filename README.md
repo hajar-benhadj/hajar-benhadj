@@ -44,7 +44,6 @@
 - 🤖 **[Business Autopilot Kit](https://github.com/hajar-benhadj/business-autopilot-kit)** — my first digital product: 6 n8n automations that send invoices, chase late payments, and brief your inbox with AI. Free edition here, full kit on [Gumroad](https://hajarbenhadj.gumroad.com/l/business-autopilot-kit).
 - 🧪 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
 - 🚨 **[Fall Detection System](https://github.com/hajar-benhadj/Fall_Detection_System)** — real-time pose-estimation fall detection with instant Telegram photo alerts.
-- 💬 **[Anonymous Messages](https://github.com/hajar-benhadj/anonymous-messages)** — anonymous feedback web app (try the [live demo](https://hajar-benhadj.github.io/anonymous-messages/)).
 
 ---
 
