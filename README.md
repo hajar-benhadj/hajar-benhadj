@@ -39,9 +39,13 @@
   <a href="https://github.com/hajar-benhadj/Fall_Detection_System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=radical" />
   </a>
+  <a href="https://github.com/hajar-benhadj/deutschflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=deutschflow&theme=radical" />
+  </a>
 </p>
 
 - 🤖 **[Business Autopilot Kit](https://github.com/hajar-benhadj/business-autopilot-kit)** — my first digital product: 6 n8n automations that send invoices, chase late payments, and brief your inbox with AI.
+- 🇩🇪 **[DeutschFlow](https://github.com/hajar-benhadj/deutschflow)** — Arabic-first German-learning PWA: interactive stories, Krimi chapters, games and an AI tutor, all vanilla JavaScript ([live demo](https://hajar-benhadj.github.io/deutschflow/)).
 - 🧪 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
 - 🚨 **[Fall Detection System](https://github.com/hajar-benhadj/Fall_Detection_System)** — real-time pose-estimation fall detection with instant Telegram photo alerts.
 
