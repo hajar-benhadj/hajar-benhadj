@@ -17,9 +17,7 @@
 ### 💖 About Me
 
 - 💻 **Software developer** building real-world products — automation, AI-powered tools, and computer-vision systems.
-- 🏗️ **Builder at heart** — I've shipped a production-ready n8n automation pack, an offline German-learning PWA with an AI tutor, and AI test-generation tools.
 - 🌸 Weakness for clean code, tested APIs, and anything that runs on autopilot.
-- 🌍 I speak **Arabic · French · English · German** — 🇩🇪 *Ich lerne gerne: Deutsch und neue Tech-Stacks!*
 
 ---
 
