@@ -44,14 +44,21 @@
 
 ---
 
-### 🌸 GitHub in Numbers
+### 🏆 Open Source Contributions
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-benhadj&theme=radical" alt="GitHub streak" />
-  <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=radical" alt="Top languages" />
-</div>
+Merged into projects I use and respect:
+
+- ✅ [lightly-ai/lightly-train #960](https://github.com/lightly-ai/lightly-train/pull/960) — exposed `min_ratio` / `max_ratio` for random resized crops
+- ✅ [Gustavo-Galvao-e-Silva/panchi #99](https://github.com/Gustavo-Galvao-e-Silva/panchi/pull/99) — type guard: reject `bool` in `parse_scalar`
+- ✅ [dkhamsing/open-source-ios-apps #2354](https://github.com/dkhamsing/open-source-ios-apps/pull/2354) — added Mlem to the directory
+- ✅ [lingdojo/kana-dojo #27121](https://github.com/lingdojo/kana-dojo/pull/27121) — Japanese cultural etiquette note
+
+Open for review:
+
+- 🔧 [panchi #116](https://github.com/Gustavo-Galvao-e-Silva/panchi/pull/116) — cache `VectorSpace.basis`: 19.6 s → milliseconds
+- 🔧 [awesome-pytest #74](https://github.com/augustogoulart/awesome-pytest/pull/74) — AI API Test Generator
+
+**19 public repos · 8 followers · contributions across ML, math education and testing tools**
 
 ---
 
