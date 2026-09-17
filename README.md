@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://github.com/hajar-benhadj/business-autopilot-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical" />
+    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical" />
   </a>
   <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical" />
+    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical" />
   </a>
   <a href="https://github.com/hajar-benhadj/Fall_Detection_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=radical" />
+    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=radical" />
   </a>
 </p>
 
@@ -45,10 +45,10 @@
 ### 🌸 GitHub in Numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-dusky-45.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=radical" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=hajar-benhadj&theme=radical" alt="GitHub streak" />
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=radical" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eight-dusky-45.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 ---
