@@ -21,28 +21,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🐱 dev mood
 
-<p align="center">
-  <a href="https://github.com/hajar-benhadj/ats-cv-checker">
-    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=ats-cv-checker&theme=radical" />
+<div align="center">
+  <a href="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280px" alt="cat coding" />
   </a>
-  <a href="https://github.com/hajar-benhadj/business-autopilot-kit">
-    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical" />
-  </a>
-  <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator">
-    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical" />
-  </a>
-  <a href="https://github.com/hajar-benhadj/Fall_Detection_System">
-    <img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=Fall_Detection_System&theme=radical" />
-  </a>
-</p>
-
-- 🎯 **[CV Lens — ATS CV Checker](https://github.com/hajar-benhadj/ats-cv-checker)** — paste a CV + a job posting, get an evidence-based keyword match report (what to add, improve, remove). Zero-setup, EN·FR, AI key-safe ([live demo](https://hajar-benhadj.github.io/ats-cv-checker/)).
-- 🤖 **[Business Autopilot Kit](https://github.com/hajar-benhadj/business-autopilot-kit)** — my first digital product: 6 n8n automations that send invoices, chase late payments, and brief your inbox with AI.
-- 🇩🇪 **DeutschFlow** — Arabic-first German-learning PWA: interactive stories, Krimi chapters, games and an AI tutor, all vanilla JavaScript.
-- 🧪 **[AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator)** — parses Swagger/OpenAPI docs and auto-generates Pytest test suites with AI.
-- 🚨 **[Fall Detection System](https://github.com/hajar-benhadj/Fall_Detection_System)** — real-time pose-estimation fall detection with instant Telegram photo alerts.
+  <p><em>me explaining to the rubber duck why it worked yesterday but not today&nbsp;🤡</em></p>
+</div>
 
 ---
 
