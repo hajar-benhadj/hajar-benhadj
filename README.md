@@ -74,6 +74,9 @@
   <a href="mailto:hajarrbenhadj@gmail.com">
     <img src="https://img.shields.io/badge/Email-hajarrbenhadj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://hajar-benhadj.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Online-9146FF?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
