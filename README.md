@@ -47,7 +47,7 @@
 <tr>
 <td valign="top" width="50%">
 
-  <a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,100:a78bfa&height=56&section=header&text=RepoDoctor&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" alt="RepoDoctor" /></a>
+  <a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,100:a78bfa&height=70&section=header&text=RepoDoctor&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="RepoDoctor" /></a>
 
   <a href="https://github.com/hajar-benhadj/repodoctor"><b>🩺 Explainable repo health</b></a> — scores with full penalty breakdowns, secret &amp; CVE detection via OSV.dev, architecture graphs with cycle detection, head-to-head repo duels.<br><br>
   <code>Next.js</code> <code>TypeScript</code> <code>zero-dep engine</code>
@@ -55,7 +55,7 @@
 </td>
 <td valign="top" width="50%">
 
-  <a href="https://github.com/hajar-benhadj/ats-cv-checker"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:f472b6&height=56&section=header&text=CV%20Lens&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" alt="CV Lens" /></a>
+  <a href="https://github.com/hajar-benhadj/ats-cv-checker"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:f472b6&height=70&section=header&text=CV%20Lens&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="CV Lens" /></a>
 
   <a href="https://github.com/hajar-benhadj/ats-cv-checker"><b>🎯 ATS CV checker</b></a> — server-side AI keyword matching with evidence table (found / partial / missing), key-safe and rate-limited. Live for job seekers, free.<br><br>
   <code>JavaScript</code> <code>AI</code> <code>Vercel</code>
@@ -65,7 +65,7 @@
 <tr>
 <td valign="top" width="50%">
 
-  <a href="https://github.com/hajar-benhadj/business-autopilot-kit"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:f9a8d4&height=56&section=header&text=Business%20Autopilot%20Kit&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" alt="Business Autopilot Kit" /></a>
+  <a href="https://github.com/hajar-benhadj/business-autopilot-kit"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:f9a8d4&height=70&section=header&text=Business%20Autopilot%20Kit&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Business Autopilot Kit" /></a>
 
   <a href="https://github.com/hajar-benhadj/business-autopilot-kit"><b>⚙️ Admin work on autopilot</b></a> — 6 production n8n automations: invoices, late-payment chasing, AI inbox briefs. Free edition open-sourced, full kit sold.<br><br>
   <code>n8n</code> <code>OpenAI API</code>
@@ -73,7 +73,7 @@
 </td>
 <td valign="top" width="50%">
 
-  <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,100:c084fc&height=56&section=header&text=AI%20API%20Test%20Generator&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" alt="AI API Test Generator" /></a>
+  <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,100:c084fc&height=70&section=header&text=AI%20API%20Test%20Generator&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="AI API Test Generator" /></a>
 
   <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><b>🧪 Tests from docs</b></a> — parses Swagger/OpenAPI documentation and generates robust Pytest suites with AI, streamlining backend testing.<br><br>
   <code>Python</code> <code>Pytest</code> <code>OpenAI</code>
