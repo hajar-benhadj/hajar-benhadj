@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,100:a78bfa&height=200&section=header&text=Hajar%20Benhadj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f472b6,100:a78bfa&height=190&section=header&text=Hajar%20Benhadj&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
   <p><em>🌸 Crafting automations that work while the world sleeps 🌙</em></p>
 
   <a href="https://hajar-benhadj.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-hajar--benhadj.github.io-c084fc?style=flat-square&labelColor=1f2430" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-c084fc?style=flat-square&labelColor=1f2430&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/hajar-benhadj/repodoctor">
     <img src="https://img.shields.io/badge/%F0%9F%A9%BA_Latest-RepoDoctor-f472b6?style=flat-square&labelColor=1f2430" alt="RepoDoctor" />
@@ -29,16 +29,33 @@
 
 ---
 
+### 🐍 The snake eats my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hajar-benhadj/hajar-benhadj/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hajar-benhadj/hajar-benhadj/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hajar-benhadj/hajar-benhadj/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 🎀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [🩺 **RepoDoctor**](https://github.com/hajar-benhadj/repodoctor) | Diagnoses any public GitHub repo: explainable health scores, secret & CVE detection via OSV.dev, architecture graphs with cycle detection, head-to-head repo duels | `Next.js` `TypeScript` `Zero-dep engine` |
-| [🎯 **CV Lens**](https://github.com/hajar-benhadj/ats-cv-checker) | ATS CV checker with server-side AI — evidence-based keyword matching, key-safe & rate-limited | `JavaScript` `AI` `Vercel` |
-| [⚙️ **Business Autopilot Kit**](https://github.com/hajar-benhadj/business-autopilot-kit) | 6 production n8n automations: invoices, late-payment chasing on autopilot, AI inbox briefs | `n8n` `OpenAI API` |
-| [🇩🇪 **DeutschFlow**](https://deutschflow-hajar.netlify.app/) | Offline-first German-learning PWA with interactive stories and an AI chat tutor | `Vanilla JS` `PWA` |
-| [🧪 **AI API Test Generator**](https://github.com/hajar-benhadj/AI-API-TEST-Generator) | Parses Swagger/OpenAPI docs and generates robust Pytest suites with AI | `Python` `Pytest` |
-| [📷 **Fall Detection System**](https://github.com/hajar-benhadj/Fall_Detection_System/) | Real-time pose-based fall detection with instant Telegram emergency alerts | `Python` `OpenCV` `MediaPipe` |
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=repodoctor&theme=radical&show_owner=true" width="378" alt="RepoDoctor" /></a></td>
+      <td><a href="https://github.com/hajar-benhadj/ats-cv-checker"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=ats-cv-checker&theme=radical&show_owner=true" width="378" alt="CV Lens" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hajar-benhadj/business-autopilot-kit"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical&show_owner=true" width="378" alt="Business Autopilot Kit" /></a></td>
+      <td><a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical&show_owner=true" width="378" alt="AI API Test Generator" /></a></td>
+    </tr>
+  </table>
+  <sub>Also: <a href="https://deutschflow-hajar.netlify.app/"><b>🇩🇪 DeutschFlow</b></a> — offline German-learning PWA with an AI tutor · <a href="https://github.com/hajar-benhadj/Fall_Detection_System/"><b>📷 Fall Detection System</b></a> — real-time pose-based emergency alerts</sub>
+</div>
 
 ---
 
@@ -66,27 +83,17 @@
 
 ### ✿ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,py,js,tailwind,html,css,opencv,git,github,vscode,vercel&theme=dark" alt="tech stack" />
   <br>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSV.dev-CVE_scanning-f472b6?style=flat-square&logo=shieldedsocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+  <sub>
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/OSV.dev-CVE_scanning-f472b6?style=flat-square&logo=shieldedsocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  </sub>
+</div>
 
 ---
 
@@ -105,5 +112,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:f472b6&height=110&section=footer&text=code%20with%20heart%20%E2%9C%A6%20ship%20with%20style&fontSize=17&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a78bfa,100:f472b6&height=110&section=footer&text=code%20with%20heart%20%E2%9C%A6%20ship%20with%20style&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" />
 </div>
