@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f472b6,100:a78bfa&height=190&section=header&text=Hajar%20Benhadj&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" />
+  <!-- Header Banner: animated Google search scene -->
+  <img src="https://raw.githubusercontent.com/hajar-benhadj/hajar-benhadj/main/assets/google-search.svg" width="100%" alt="Google search: who is the best female programmer? → Hajar Benhadj ★ 5.0" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -44,17 +44,13 @@
 ### 🎀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=repodoctor&theme=radical&show_owner=true" width="378" alt="RepoDoctor" /></a></td>
-      <td><a href="https://github.com/hajar-benhadj/ats-cv-checker"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=ats-cv-checker&theme=radical&show_owner=true" width="378" alt="CV Lens" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/hajar-benhadj/business-autopilot-kit"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical&show_owner=true" width="378" alt="Business Autopilot Kit" /></a></td>
-      <td><a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical&show_owner=true" width="378" alt="AI API Test Generator" /></a></td>
-    </tr>
-  </table>
-  <sub>Also: <a href="https://deutschflow-hajar.netlify.app/"><b>🇩🇪 DeutschFlow</b></a> — offline German-learning PWA with an AI tutor · <a href="https://github.com/hajar-benhadj/Fall_Detection_System/"><b>📷 Fall Detection System</b></a> — real-time pose-based emergency alerts</sub>
+  <marquee scrollamount="7" behavior="scroll" direction="left" style="background:#0d1117; border-radius:12px; padding:8px 0;">
+    <a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=repodoctor&theme=radical&show_owner=true" width="380" alt="RepoDoctor" /></a>
+    <a href="https://github.com/hajar-benhadj/ats-cv-checker"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=ats-cv-checker&theme=radical&show_owner=true" width="380" alt="CV Lens" /></a>
+    <a href="https://github.com/hajar-benhadj/business-autopilot-kit"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=business-autopilot-kit&theme=radical&show_owner=true" width="380" alt="Business Autopilot Kit" /></a>
+    <a href="https://github.com/hajar-benhadj/AI-API-TEST-Generator"><img src="https://github-readme-stats-eight-dusky-45.vercel.app/api/pin/?username=hajar-benhadj&repo=AI-API-TEST-Generator&theme=radical&show_owner=true" width="380" alt="AI API Test Generator" /></a>
+  </marquee>
+  <p><sub>Also shipping: <a href="https://deutschflow-hajar.netlify.app/"><b>🇩🇪 DeutschFlow</b></a> — offline German-learning PWA with an AI tutor · <a href="https://github.com/hajar-benhadj/Fall_Detection_System/"><b>📷 Fall Detection System</b></a> — real-time pose-based emergency alerts</sub></p>
 </div>
 
 ---
@@ -70,13 +66,13 @@
 
 ---
 
-### 📊 GitHub in Numbers
+### 📈 My Year in Code
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-eight-dusky-45.vercel.app/api?username=hajar-benhadj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=hajar-benhadj&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
-  <br />
-  <img height="160" src="https://github-readme-stats-eight-dusky-45.vercel.app/api/top-langs/?username=hajar-benhadj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hajar-benhadj&bg_color=0d1117&color=f9a8d4&line=f472b6&point=a78bfa&area=true&area_color=2a1a35&hide_border=true" width="100%" alt="contribution activity graph" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajar-benhadj&theme=aura" width="49%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajar-benhadj&theme=aura&utcOffset=1" width="49%" alt="productive time" />
 </div>
 
 ---

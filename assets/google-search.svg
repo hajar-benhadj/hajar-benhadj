@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-label="Google search for the best female programmer, result: Hajar Benhadj">
+<defs>
+  <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f9a8d4"/><stop offset="0.5" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f472b6" stop-opacity="0.14"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0.14"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1098" height="328" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="1098" height="4" rx="2" fill="url(#nameGrad)"/>
+<text x="445" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#4285F4">G</text><text x="475" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#EA4335">o</text><text x="505" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#FBBC05">o</text><text x="535" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#4285F4">g</text><text x="565" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#34A853">l</text><text x="579" y="72" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#EA4335">e</text>
+<text x="668" y="72" font-family="Arial, sans-serif" font-size="15" fill="#8b949e">| search the world…</text>
+<rect x="120" y="108" width="860" height="58" rx="29" fill="url(#barGrad)" stroke="#30363d" stroke-width="1.5"/>
+<g stroke="#9aa0a6" stroke-width="2.4" fill="none">
+  <circle cx="156" cy="137" r="10"/>
+  <line x1="163.5" y1="144.5" x2="172" y2="153"/>
+</g>
+<text x="285" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">w<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0400;0.0440;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="297.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">h<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0518;0.0558;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="309.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">o<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0635;0.0675;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="321.6" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0"> <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0753;0.0793;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="333.8" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">i<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0871;0.0911;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="346" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">s<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0988;0.1028;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="358.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0"> <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1106;0.1146;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="370.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">t<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1224;0.1264;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="382.6" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">h<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1341;0.1381;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="394.8" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">e<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1459;0.1499;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="407" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0"> <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1576;0.1616;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="419.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">b<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1694;0.1734;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="431.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">e<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1812;0.1852;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="443.6" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">s<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1929;0.1969;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="455.79999999999995" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">t<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2047;0.2087;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="468" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0"> <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2165;0.2205;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="480.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">f<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2282;0.2322;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="492.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">e<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2400;0.2440;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="504.6" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">m<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2518;0.2558;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="516.8" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">a<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2635;0.2675;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="529" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">l<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2753;0.2793;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="541.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">e<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2871;0.2911;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="553.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0"> <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2988;0.3028;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="565.5999999999999" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">p<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3106;0.3146;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="577.8" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">r<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3224;0.3264;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="590" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">o<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3341;0.3381;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="602.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">g<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3459;0.3499;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="614.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">r<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3576;0.3616;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="626.5999999999999" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">a<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3694;0.3734;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="638.8" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">m<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3812;0.3852;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="651" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">m<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3929;0.3969;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="663.2" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">e<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4047;0.4087;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="675.4" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">r<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4165;0.4205;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="687.5999999999999" y="152" font-family="Consolas, Menlo, monospace" font-size="23" fill="#e6edf3" opacity="0">?<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4282;0.4322;1" dur="8s" repeatCount="indefinite"/></text>
+<rect x="285" y="133" width="2.5" height="25" fill="#f472b6" opacity="0"><animate attributeName="x" calcMode="discrete" values="285;297.2;309.4;321.6;333.8;346;358.2;370.4;382.6;394.8;407;419.2;431.4;443.6;455.79999999999995;468;480.2;492.4;504.6;516.8;529;541.2;553.4;565.5999999999999;577.8;590;602.2;614.4;626.5999999999999;638.8;651;663.2;675.4;687.5999999999999;699.8;699.8" keyTimes="0;0.0518;0.0635;0.0753;0.0871;0.0988;0.1106;0.1224;0.1341;0.1459;0.1576;0.1694;0.1812;0.1929;0.2047;0.2165;0.2282;0.2400;0.2518;0.2635;0.2753;0.2871;0.2988;0.3106;0.3224;0.3341;0.3459;0.3576;0.3694;0.3812;0.3929;0.4047;0.4165;0.4282;0.4400;0.55" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.44;0.55;0.56;1" dur="8s" repeatCount="indefinite"/></rect>
+<g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.44;0.46;0.53;0.55;1" dur="8s" repeatCount="indefinite"/>
+    <circle cx="940" cy="137" r="11" fill="none" stroke="#30363d" stroke-width="3"/>
+    <circle cx="940" cy="137" r="11" fill="none" stroke="#f472b6" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 52">
+      <animateTransform attributeName="transform" type="rotate" from="0 940 137" to="360 940 137" dur="0.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.54;0.60;0.92;0.97;1" dur="8s" repeatCount="indefinite"/>
+    <rect x="250" y="196" width="600" height="104" rx="12" fill="#1c2128" stroke="#f472b6" stroke-opacity="0.45" stroke-width="1.5"/>
+    <text x="285" y="240" font-family="Arial, sans-serif" font-size="27" font-weight="800" fill="url(#nameGrad)">Hajar Benhadj
+      <animate attributeName="font-size" values="27;27;28;28" keyTimes="0;0.60;0.66;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="795" y="238" text-anchor="end" font-family="Arial, sans-serif" font-size="19" fill="#fbbf24">★★★★★ <tspan fill="#e6edf3" font-size="16">5.0</tspan></text>
+    <text x="285" y="268" font-family="Arial, sans-serif" font-size="15" fill="#8b949e">Software Developer · Automation · AI · Computer Vision — Morocco</text>
+    <text x="285" y="290" font-family="Arial, sans-serif" font-size="13" font-style="italic" fill="#f9a8d4">✿ verified: ships products, not just code</text>
+  </g>
+</svg>
