@@ -64,17 +64,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| 🤖 [**AI-API-TEST-Generator**](https://github.com/hajar-benhadj/AI-API-TEST-Generator) | Parses Swagger/OpenAPI docs and leverages AI to generate robust Pytest test cases | Python · OpenAI · Pytest |
-| 🛟 [**Fall_Detection_System**](https://github.com/hajar-benhadj/Fall_Detection_System) | Real-time fall detection with MediaPipe pose estimation and instant Telegram emergency alerts | Python · OpenCV · MediaPipe |
-| 📄 [**ats-cv-checker**](https://github.com/hajar-benhadj/ats-cv-checker) | Paste your CV + a job posting, get evidence-based keyword match — 100% client-side | JavaScript · Rule-based + AI |
-| 📬 [**business-autopilot-kit**](https://github.com/hajar-benhadj/business-autopilot-kit) | Plug-and-play n8n automations for invoices, follow-ups, reports and inbox | JavaScript · n8n |
-
----
-
 ### ✨ Tech Stack
 
 <p align="center">
