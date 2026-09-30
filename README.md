@@ -102,9 +102,10 @@
 ### 📈 My Year in Code
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hajar-benhadj&bg_color=0d1117&color=f9a8d4&line=f472b6&point=a78bfa&area=true&area_color=2a1a35&hide_border=true" width="100%" alt="contribution activity graph" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajar-benhadj&theme=aura" width="49%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajar-benhadj&theme=aura" width="49%" alt="stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajar-benhadj&theme=aura" width="49%" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajar-benhadj&theme=aura&utcOffset=1" width="49%" alt="productive time" />
 </div>
 
