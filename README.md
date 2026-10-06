@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-c084fc?style=flat-square&labelColor=1f2430&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/hajar-benhadj/repodoctor">
-    <img src="https://img.shields.io/badge/%F0%9F%A9%BA_Latest-RepoDoctor-f472b6?style=flat-square&labelColor=1f2430" alt="RepoDoctor" />
+    <img src="https://img.shields.io/badge/%F0%9F%A7%A9_Latest-ZelligeDB-e6a23c?style=flat-square&labelColor=1f2430" alt="ZelligeDB" />
   </a>
 
 </div>
@@ -44,7 +44,17 @@
 ### 🎀 Featured Projects
 
 <table>
-<tr>
+  <tr>
+    <td colspan="2">
+
+  <a href="https://github.com/hajar-benhadj/zellige-db"><img src="https://raw.githubusercontent.com/hajar-benhadj/zellige-db/main/.github/assets/banner.png" width="100%" alt="ZelligeDB" /></a>
+
+  <a href="https://github.com/hajar-benhadj/zellige-db"><b>🧩 A SQL database engine built from scratch</b></a> — 4 KiB checksummed pages, B+Tree, a crash-proof write-ahead log, MVCC, a hand-written SQL front-end differential-tested against SQLite, and a Postgres-compatible server real <code>psql</code> clients connect to. Compiles to WebAssembly — <a href="https://hajar-benhadj.github.io/zellige-db/">try it live</a>.<br><br>
+  <code>Rust</code> <code>B+Tree</code> <code>WAL</code> <code>MVCC</code> <code>WebAssembly</code> <code>9 ADRs</code>
+
+    </td>
+  </tr>
+  <tr>
 <td valign="top" width="50%">
 
   <a href="https://github.com/hajar-benhadj/repodoctor"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,100:a78bfa&height=70&section=header&text=RepoDoctor&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="RepoDoctor" /></a>
@@ -88,6 +98,18 @@
 
 ---
 
+### 🌍 Open Source Contributions
+
+<div align="center">
+  <a href="https://github.com/hajar-benhadj/my-portfolio/#opensource"><img src="https://img.shields.io/badge/pull_requests-18%2B-7c3aed?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/hajar-benhadj/my-portfolio/#opensource"><img src="https://img.shields.io/badge/merged-9-3fb950?style=flat-square&logo=git" /></a>
+  <a href="https://github.com/hajar-benhadj/my-portfolio/#opensource"><img src="https://img.shields.io/badge/projects-12%2B-e6a23c?style=flat-square&logo=git" /></a>
+</div>
+
+Merged into ML libraries (<a href="https://github.com/lightly-ai/lightly-train"><b>lightly-train</b></a>), security scanners, curated lists and learning apps — including <b>n8n</b>, <b>wagtail</b> and <b>layer5</b>. <a href="https://github.com/hajar-benhadj/my-portfolio/#opensource">Details ↗</a>
+
+---
+
 ### 🐱 dev mood
 
 <div align="center">
@@ -114,7 +136,7 @@
 ### ✿ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,py,js,tailwind,html,css,opencv,git,github,vscode,vercel&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,py,js,tailwind,html,css,opencv,git,github,vercel&theme=dark" alt="tech stack" />
   <br>
   <sub>
     <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
