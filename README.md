@@ -24,7 +24,8 @@
 ### ✿ About Me
 
 - 💻 **Software developer** building real-world products — automation, AI-powered tools, static analysis, and computer-vision systems.
-- 🩺 Recently shipped **RepoDoctor**: a GitHub repository analyzer with a zero-dependency static-analysis engine — complexity metrics, secret & CVE detection, architecture graphs.
+- 🧩 Just shipped **ZelligeDB**: a full SQL database engine built from scratch in Rust — pages, B+Tree, crash-proof WAL, MVCC, SQL, and a Postgres-compatible server. [Try it in the browser ↗](https://hajar-benhadj.github.io/zellige-db/).
+- 🩺 Also just shipped **RepoDoctor**: a GitHub repository analyzer with a zero-dependency static-analysis engine — complexity metrics, secret & CVE detection, architecture graphs.
 - 🌷 Weakness for clean code, tested APIs, and anything that runs on autopilot.
 
 ---
